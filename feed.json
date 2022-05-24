@@ -1,0 +1,91 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Unstable Isotope",
+	"icon": "https://micro.blog/drpyser/avatar.jpg",
+	"home_page_url": "https://micro.charleslanglois.dev/",
+	"feed_url": "https://micro.charleslanglois.dev/feed.json",
+	"items": [
+		
+			{
+				"id": "http://drpyser.micro.blog/2022/05/24/concerts.html",
+				"title": "Concerts!!!",
+				"content_html": "<p>Got some awesome shows lined up this year:</p>\n<ul>\n<li><a href=\"https://go.seated.com/tour-events/0c97b9e3-439a-41ac-8098-4a22d94bbf81\">Japanese Breakfast &amp; Barrie on July 20</a></li>\n<li><a href=\"https://wilcoworld.net/tour_date_type/20-aug-2022-montreal-qc-mtelus/\">Wilco on August 20</a></li>\n<li><a href=\"https://www.songkick.com/concerts/40254404-metronomy-at-mtelus?utm_source=60288&amp;utm_medium=partner\">Metronomy on October 10</a></li>\n</ul>\n<p>Probably will be adding:</p>\n<ul>\n<li><a href=\"https://go.seated.com/tour-events/1c064728-9ce7-4d26-b16e-b6722c88f781\">Porcupine Tree on September 12</a></li>\n<li><a href=\"https://www.songkick.com/concerts/40279974-spiritualized-at-theatre-corona\">Spiritualized on September 19</a></li>\n</ul>\n",
+				"content_text": "Got some awesome shows lined up this year:  \r\n- [Japanese Breakfast & Barrie on July 20](https://go.seated.com/tour-events/0c97b9e3-439a-41ac-8098-4a22d94bbf81)  \r\n- [Wilco on August 20](https://wilcoworld.net/tour_date_type/20-aug-2022-montreal-qc-mtelus/)  \r\n- [Metronomy on October 10](https://www.songkick.com/concerts/40254404-metronomy-at-mtelus?utm_source=60288&utm_medium=partner)\r\n\r\nProbably will be adding:  \r\n- [Porcupine Tree on September 12](https://go.seated.com/tour-events/1c064728-9ce7-4d26-b16e-b6722c88f781)  \r\n- [Spiritualized on September 19](https://www.songkick.com/concerts/40279974-spiritualized-at-theatre-corona)\r\n\r\n",
+				"date_published": "2022-05-24T00:03:04-04:00",
+				"url": "https://micro.charleslanglois.dev/2022/05/24/concerts.html"
+			},
+			{
+				"id": "http://drpyser.micro.blog/2022/05/23/all-your-love.html",
+				
+				"content_html": "<p><a href=\"https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT?si=904c2bf588f34f53\">All Your Love Is Gone - Boxed In</a>\n&lt;3</p>\n",
+				"content_text": "[All Your Love Is Gone - Boxed In](https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT?si=904c2bf588f34f53)\r\n<3\n",
+				"date_published": "2022-05-23T23:13:19-04:00",
+				"url": "https://micro.charleslanglois.dev/2022/05/23/all-your-love.html"
+			},
+			{
+				"id": "http://drpyser.micro.blog/2022/05/20/music-objects-of.html",
+				
+				"content_html": "<p>#music\n<a href=\"https://open.spotify.com/track/4uPR4wRw419VH5TasUr9Cg?si=fxAcnNyZSou0zjkvBVQ5Rw&amp;utm_source=native-share-menu\">Objects of my Affection - Peter Bjorn and John</a></p>\n",
+				"content_text": "#music \n[Objects of my Affection - Peter Bjorn and John](https://open.spotify.com/track/4uPR4wRw419VH5TasUr9Cg?si=fxAcnNyZSou0zjkvBVQ5Rw&utm_source=native-share-menu)\n\n",
+				"date_published": "2022-05-20T13:08:45-04:00",
+				"url": "https://micro.charleslanglois.dev/2022/05/20/music-objects-of.html"
+			},
+			{
+				"id": "http://drpyser.micro.blog/2022/05/20/music-this-year.html",
+				
+				"content_html": "<p>#music <a href=\"https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R?si=pm7wE6IdScyYVb8dMN5N2A&amp;utm_source=copy-link\">This Year - The Mountain Goats</a></p>\n",
+				"content_text": "#music [This Year - The Mountain Goats](https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R?si=pm7wE6IdScyYVb8dMN5N2A&utm_source=copy-link)\n",
+				"date_published": "2022-05-20T12:17:41-04:00",
+				"url": "https://micro.charleslanglois.dev/2022/05/20/music-this-year.html"
+			},
+			{
+				"id": "http://drpyser.micro.blog/2022/05/17/161446.html",
+				
+				"content_html": "<p><a href=\"https://open.spotify.com/track/5NtATk9xTMCKBlL46IJoXC\">open.spotify.com/track/5Nt&hellip;</a></p>\n<p>Dry Cleaning - Scratchcard Lanyard</p>\n",
+				"content_text": "[open.spotify.com/track/5Nt...](https://open.spotify.com/track/5NtATk9xTMCKBlL46IJoXC)\n\nDry Cleaning - Scratchcard Lanyard\n",
+				"date_published": "2022-05-17T16:14:46-04:00",
+				"url": "https://micro.charleslanglois.dev/2022/05/17/161446.html"
+			},
+			{
+				"id": "http://drpyser.micro.blog/2022/05/17/stereolab-brakhage-music.html",
+				
+				"content_html": "<p><a href=\"https://open.spotify.com/track/2iEY46ga4p2CKYUWmzn9oO?si=clvQigmYTAS91c_zyNsD5g&amp;utm_source=native-share-menu\">Stereolab - Brakhage</a></p>\n<p>#music</p>\n",
+				"content_text": "[Stereolab - Brakhage](https://open.spotify.com/track/2iEY46ga4p2CKYUWmzn9oO?si=clvQigmYTAS91c_zyNsD5g&utm_source=native-share-menu)\n\n#music\n",
+				"date_published": "2022-05-17T11:16:33-04:00",
+				"url": "https://micro.charleslanglois.dev/2022/05/17/stereolab-brakhage-music.html",
+				"tags": ["Music Stream"]
+			},
+			{
+				"id": "http://drpyser.micro.blog/2022/05/17/some-photos-from.html",
+				
+				"content_html": "<p>Some photos from the awesome Dry Cleaning show at Theatre Fairmount on May 13.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Some photos from the awesome Dry Cleaning show at Theatre Fairmount on May 13.\n\n\n<img src=\"uploads/2022/a8154fb557.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/fe26c085b3.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/46ad4d610f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-05-17T00:30:42-04:00",
+				"url": "https://micro.charleslanglois.dev/2022/05/17/some-photos-from.html"
+			},
+			{
+				"id": "http://drpyser.micro.blog/2022/05/17/currently-reading-minds.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780553343434\">Mind&rsquo;s I, The</a> by Douglas Hofstadter 📚</p>\n",
+				"content_text": "Currently reading: [Mind's I, The](https://micro.blog/books/9780553343434) by Douglas Hofstadter 📚\n",
+				"date_published": "2022-05-17T00:05:25-04:00",
+				"url": "https://micro.charleslanglois.dev/2022/05/17/currently-reading-minds.html"
+			},
+			{
+				"id": "http://drpyser.micro.blog/2022/05/16/currently-reading-dune.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780441013593\">Dune (Dune Chronicles, Book 1)</a> by Frank Herbert 📚</p>\n<p>Actually almost finished, and loved it. I&rsquo;d love to read the whole series eventually.</p>\n",
+				"content_text": "Currently reading: [Dune (Dune Chronicles, Book 1)](https://micro.blog/books/9780441013593) by Frank Herbert 📚\r\n\r\nActually almost finished, and loved it. I'd love to read the whole series eventually.\n",
+				"date_published": "2022-05-16T23:54:09-04:00",
+				"url": "https://micro.charleslanglois.dev/2022/05/16/currently-reading-dune.html"
+			},
+			{
+				"id": "http://drpyser.micro.blog/2022/05/16/httpswwwyoutubecomwatchvvkzwluqizz-here-we.html",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=VKzWLUQizz8\">www.youtube.com/watch</a></p>\n<p>Here we go.</p>\n",
+				"content_text": "[www.youtube.com/watch](https://www.youtube.com/watch?v=VKzWLUQizz8)\r\n\r\nHere we go.\n",
+				"date_published": "2022-05-16T23:50:26-04:00",
+				"url": "https://micro.charleslanglois.dev/2022/05/16/httpswwwyoutubecomwatchvvkzwluqizz-here-we.html"
+			}
+	]
+}
